@@ -1,0 +1,21 @@
+{
+	"pluginName": "Play sounds",
+	"pluginDescription": "Play a sound when pressing your Flic button.",
+    "pluginReadMore": "Play a sound when pressing your Flic button.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "DJ Air Horn",
+			"fileName": "dj-airhorn.sh"
+        },
+        {
+			"actionName": "OH YEAH...",
+			"fileName": "oh-yeah.sh"
+        },
+        {
+			"actionName": "Fuck you",
+			"fileName": "fuck-you.sh"
+        }
+	]
+}
