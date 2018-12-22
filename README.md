@@ -2,6 +2,8 @@
 
 ## Plugins
 
+* Show the screensaver (and lock your Mac)
+* Open the Xcode iOS Simulator location in Finder.
 * Reminders with voice or alerts 🚨
 * Play _very important_ sounds 🔉
 
