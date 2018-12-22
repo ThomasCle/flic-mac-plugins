@@ -8,6 +8,14 @@
 		{
 			"actionName": "Remind me in 10 minutes with voice.",
 			"fileName": "remind-me-in-10-minutes-voice.sh"
-		}
+        },
+        {
+			"actionName": "Remind me in 10 minutes with alert.",
+			"fileName": "remind-me-in-10-minutes-alert.sh"
+        },
+        {
+			"actionName": "Remind me in 30 minutes to take a break with alert",
+			"fileName": "remind-me-to-take-a-break-in-30-minutes.sh"
+        }
 	]
 }
