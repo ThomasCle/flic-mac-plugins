@@ -1,2 +1,2 @@
 #!/bin/sh
-cp ./*/ ~/Library/Application\ Scripts/com.shortcutlabs.FlicMac
+cp -R ./plugins/* ~/Library/Application\ Scripts/com.shortcutlabs.FlicMac/
