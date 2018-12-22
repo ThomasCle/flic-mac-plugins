@@ -1,5 +1,11 @@
 # Flic Mac Plugins
 
+This is my personal repository of useful Flic plugins for Mac. Hopefully others might find them usefull too.
+
+The plugins are supposed to be used with the official [Flic Mac App](https://flic.io/mac-app).
+
+Feel free to request plugins or make them yourself and create a pull-request 🙌🏻
+
 ## Plugins
 
 * Show the screensaver (and lock your Mac)
