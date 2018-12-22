@@ -1,0 +1,13 @@
+{
+	"pluginName": "Show screensaver",
+	"pluginDescription": "Immediately shows your scrensaver.",
+	"pluginReadMore": "Useful to lock your Mac immediately when pressing the Flic button. Setup your Mac to require password immediately after showing the screensaver. Or I guess you could use this to just show off your awesome screensaver, right? 🙄",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Show screensaver",
+			"fileName": "show-screensaver.sh"
+		}
+	]
+}
