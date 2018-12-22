@@ -1,0 +1,13 @@
+{
+	"pluginName": "Remind me",
+	"pluginDescription": "Get reminders when you need to remmeber something.",
+    "pluginReadMore": "Press your Flic button to get reminders while on your Mac. There are several different reminders, you can set.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Remind me in 10 minutes with voice.",
+			"fileName": "remind-me-in-10-minutes-voice.sh"
+		}
+	]
+}
