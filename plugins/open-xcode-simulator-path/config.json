@@ -1,0 +1,13 @@
+{
+	"pluginName": "Open iOS simulator path",
+	"pluginDescription": "Opens a Finder window in the iOS simulator path.",
+    "pluginReadMore": "If you are like me, you are ALWAYS asking Google for help, when you need to find this place. Apple has changed the folder several times over the year, and I am always confused about this. Shouldn't we just press the Flic button instead?",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Open iOS simulator path",
+			"fileName": "open-simulator-path.sh"
+		}
+	]
+}
